@@ -1,5 +1,5 @@
 /* eslint-disable no-console */
-import { useEffect, useMemo, useState } from 'react';
+import { useMemo } from 'react';
 import { Button, Box } from '@chakra-ui/react';
 import { useInfiniteQuery } from 'react-query';
 import { AxiosResponse } from 'axios';
